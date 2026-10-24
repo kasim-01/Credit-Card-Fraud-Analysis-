@@ -7,8 +7,7 @@ An interactive Power BI dashboard that analyses 1,000 credit card transactions t
 ![Power Query](https://img.shields.io/badge/Power%20Query-ETL-green)
 ![Domain](https://img.shields.io/badge/Domain-Banking%20%26%20Fraud%20Analytics-red)
 
-> `Credit-Card-Fraud-Analysis-/blob/main/dashboard%20image.png`
-
+![Dashboard Preview](dashboard%20image.png)
 ---
 
 ## Business Problem
